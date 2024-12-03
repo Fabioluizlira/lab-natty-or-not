@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Meu projeto de Inteligência Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi feito para explorar Inteligências Artificiais Generativas, como o ChatGPT e Leonardo AI.  
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- chatGPT: criação do slogan;
+- Leonardo AI: criação da ilustração
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Crianção de prompts de comando na ferramenta Leonardo AI descrevendo o público alvo e o estilo da chuteira, explorando as funcionalidades básicas da ferramenta; criação de slogan na ferramenta chatCPT utilizando o mesmo prompt de comando.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://1drv.ms/i/c/a29e12f840d444e2/Ea50_OmB63dLtPBzpAZu2MgBu9xMzLIU4BOlSq7cerPJxQ?e=J02Ybf
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Realizar o projeto "Natty" realmente foi desafiador e enriquecedor. É realmente surpreendente a infinidade de possibilidades que as ferramentas de IA podem proporcionar. Essa experiência me mostrou o quanto a colaboração entre humanos e tecnologia pode ser poderosa.
 ```
 
 ### Exemplos e Insigths
